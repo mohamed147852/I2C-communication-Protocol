@@ -41,7 +41,7 @@ Waveforms confirm complete I²C protocol compliance.
 
 🔧 Tools Used
 Verilog HDL
-** Vivado Simulator**
+** ModelSim  / Vivado Simulator**
 FPGA Design Flow
 
 📎 Repository Purpose
